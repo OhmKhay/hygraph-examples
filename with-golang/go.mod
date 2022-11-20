@@ -1,6 +1,6 @@
 module using-golang
 
-go 1.16
+go 1.19
 
 require (
 	github.com/machinebox/graphql v0.2.2
